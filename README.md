@@ -1,4 +1,4 @@
-##**Special Addict.asi by xMike**
+##**Special Addict.asi by me**
 This mod nop's all code thats responsible for decreasing the special metre. 
 Start the game, do tricks and gain special metre points. 
 You should realize that the points in special metre don't decrease if you don't do tricks, fail or hit a wall.. 
